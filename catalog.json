@@ -27,25 +27,25 @@
     { "id": "prod-e912e6d1-021", "name": "Premium Item 21", "category": "sports", "price": 189.24, "stock": 148, "rating": 1.9 }
   ],
   "aggregations": {
-    "sports": {
-      "count": 5,
-      "inventoryValue": 94146.35
-    },
-    "electronics": {
-      "count": 8,
-      "inventoryValue": 81936.89
-    },
-    "home": {
-      "count": 3,
-      "inventoryValue": 29712.35
-    },
-    "books": {
-      "count": 3,
-      "inventoryValue": 152296.16
-    },
-    "clothing": {
-  "count": 2,
-  "inventoryValue": 54225.44
+  "sports": {
+    "count": 5,
+    "inventoryValue": 94146.35
+  },
+  "electronics": {
+    "count": 8,
+    "inventoryValue": 81936.89
+  },
+  "home": {
+    "count": 3,
+    "inventoryValue": 29712.35
+  },
+  "books": {
+    "count": 3,
+    "inventoryValue": 152900.5
+  },
+  "clothing": {
+    "count": 2,
+    "inventoryValue": 54225.44
   }
-  }
+}
 }
